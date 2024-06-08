@@ -1,6 +1,6 @@
 pkgbase = resolver-git
-	pkgdesc = resolve
-	pkgver = null.rnull.g4b3f8263b474dd8f4e9961ba4efed0353eca4113
+	pkgdesc = Returns addresses for hostnames.
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.gdabd91cd3800925a7307029bd8eebf3535ed436b
 	pkgrel = 1
 	url = https://github.com/themartiancompany/resolver
 	arch = any
@@ -12,7 +12,7 @@ pkgbase = resolver-git
 	makedepends = curl
 	makedepends = jq
 	depends = libcrash-bash
-	provides = resolver=null.rnull.g4b3f8263b474dd8f4e9961ba4efed0353eca4113
+	provides = resolver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.gdabd91cd3800925a7307029bd8eebf3535ed436b
 	conflicts = resolver
 	source = resolver.tar.gz::https://github.com/themartiancompany/resolver/archive/refs/heads/master.tar.gz
 	sha256sums = SKIP

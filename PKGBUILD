@@ -8,10 +8,10 @@ _local=false
 _proj="hip"
 _pkgname=resolver
 pkgname="${_pkgname}-git"
-pkgver=null.rnull.g"4b3f8263b474dd8f4e9961ba4efed0353eca4113"
+pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1".r0.g"dabd91cd3800925a7307029bd8eebf3535ed436b"
 pkgrel=1
 _pkgdesc=(
-  "resolve"
+  "Returns addresses for hostnames."
 )
 pkgdesc="${_pkgdesc[*]}"
 arch=(
