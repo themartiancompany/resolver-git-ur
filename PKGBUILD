@@ -28,6 +28,8 @@ license=(
   AGPL3
 )
 depends=(
+  tor-resolver
+  hotspot-resolver
   libcrash-bash
 )
 makedepends=(

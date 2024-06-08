@@ -11,6 +11,8 @@ pkgbase = resolver-git
 	makedepends = make
 	makedepends = curl
 	makedepends = jq
+	depends = tor-resolver
+	depends = hotspot-resolver
 	depends = libcrash-bash
 	provides = resolver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.r0.gdabd91cd3800925a7307029bd8eebf3535ed436b
 	conflicts = resolver
